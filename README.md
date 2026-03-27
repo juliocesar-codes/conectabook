@@ -19,7 +19,7 @@ Semestre: 2026/1
 - [@marcelnt](https://github.com/marcelnt)
 - [@yurikomuta](https://github.com/yurikomuta)
 
-### Orientadores: 
+### Documentação: 
 - [Requisitos_Funcionais](https://github.com/juliocesar-codes/conectabook/blob/main/docs/LERF.docx)
 - [Requisitos Não Funcionais](https://github.com/fernandoleonid)
 - [TAP](https://github.com/marcelnt)
