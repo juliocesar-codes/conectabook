@@ -1,5 +1,6 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<img width="437" height="164" alt="Capturar" src="https://github.com/user-attachments/assets/8ba0eb64-6238-47ee-8c6c-98fa66647a4a" />
+
 
 
 # Template para TCC - Repositório Oficial
@@ -21,9 +22,9 @@ Semestre: 2026/1
 
 ### Documentação: 
 - [Requisitos_Funcionais](https://github.com/juliocesar-codes/conectabook/blob/main/docs/LERF.docx)
-- [Requisitos Não Funcionais](https://github.com/fernandoleonid)
-- [TAP](https://github.com/marcelnt)
-- [Protótipo de Alta Fidelidade](https://github.com/yurikomuta)
+- [Requisitos Não Funcionais](https://github.com/juliocesar-codes/conectabook/blob/main/docs/RNF.docx)
+- [TAP](https://github.com/juliocesar-codes/conectabook/wiki/TAP)
+- [Protótipo de Alta Fidelidade](https://www.figma.com/design/x75SBT8kCmnKymExqypK0r/Prot%C3%B3tipo-TCC?node-id=263-354&p=f&t=NLE5aeGmmeFprg7G-0)
 
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
@@ -47,9 +48,7 @@ Semestre: 2026/1
 
 ## Authors
 
-- [@Aluno1](https://www.github.com/octokatherine)
-- [@Aluno2](https://www.github.com/octokatherine)
-- [@Aluno3](https://www.github.com/octokatherine)
-- [@Aluno4](https://www.github.com/octokatherine)
-- [@Aluno5](https://www.github.com/octokatherine)
-
+- [@Aluno1](https://github.com/Isabelleabreu)
+- [@Aluno2](https://github.com/AlexGomes34)
+- [@Aluno3](https://github.com/juliocesar-codes)
+- [@Aluno4](https://github.com/GeovannaSilva09)
