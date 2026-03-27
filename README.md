@@ -48,7 +48,7 @@ Semestre: 2026/1
 
 ## Authors
 
-- [@Aluno1](https://github.com/Isabelleabreu)
-- [@Aluno2](https://github.com/AlexGomes34)
-- [@Aluno3](https://github.com/juliocesar-codes)
-- [@Aluno4](https://github.com/GeovannaSilva09)
+- [@Isabelle](https://github.com/Isabelleabreu)
+- [@Alex](https://github.com/AlexGomes34)
+- [@Julio](https://github.com/juliocesar-codes)
+- [@Geovanna](https://github.com/GeovannaSilva09)
