@@ -25,8 +25,6 @@ Semestre: 2026/1
 - [TAP](https://github.com/marcelnt)
 - [Protótipo de Alta Fidelidade](https://github.com/yurikomuta)
 
-### Documentação
-
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
 │   └── 📄 wireframes.md  
@@ -46,13 +44,6 @@ Semestre: 2026/1
 
 ├── 📂 referências              
 │   └── 📄 bibliografia.bib
-## Contribuições
-
-Use mensagens claras e descritivas!
-
-Commits pequenos e frequentes.
-
-Exemplo: git commit -m `Adiciona introdução com contexto do problema`
 
 ## Authors
 
